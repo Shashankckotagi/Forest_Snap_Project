@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390085127968",
+    "project_id": "forest-snap-backend",
+    "storage_bucket": "forest-snap-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390085127968:android:e68ce2d02709e39cc9b145",
+        "android_client_info": {
+          "package_name": "com.example.forestsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmmaZQPl4eSgC1ZJFbRrbaB9FS062Qi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

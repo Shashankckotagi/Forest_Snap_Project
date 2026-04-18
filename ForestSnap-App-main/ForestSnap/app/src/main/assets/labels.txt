@@ -1,0 +1,3 @@
+0 High_Risk
+1 Medium_Risk
+2 Low_Risk
